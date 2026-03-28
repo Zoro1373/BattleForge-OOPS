@@ -57,7 +57,11 @@ System.out.println("5. Exit");
     } else {
         System.out.println("Create a character first!");
     }
+<<<<<<< HEAD
     break;n
+=======
+    break;
+>>>>>>> e2215e9 (Final clean upload)
 
                 case 5:
                     System.out.println("Exiting Batllefoege.....");
