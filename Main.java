@@ -57,7 +57,7 @@ System.out.println("5. Exit");
     } else {
         System.out.println("Create a character first!");
     }
-    break;
+    break;n
 
                 case 5:
                     System.out.println("Exiting Batllefoege.....");
